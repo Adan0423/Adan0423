@@ -1,62 +1,96 @@
-<h1 align="center">👋 Hola, soy Adán Trinidad</h1>
+# 👋 ¡Hola, soy Adán Trinidad!
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=adan0423&label=Profile%20views&color=0e75b6&style=flat" alt="adan0423" />
-</p>
+<div align="center">
 
-<p align="center">
-  <b>Estudiante de Análisis de Sistemas | Apasionado por la tecnología y el desarrollo de software</b><br>
-  Me apasiona aprender nuevos lenguajes, herramientas y frameworks, aplicándolos en proyectos prácticos que consolidan mis habilidades.<br>
-  Tengo experiencia en desarrollo web (front-end & back-end) con HTML, CSS, JavaScript, React, Node.js y MongoDB.<br>
-  También he trabajado con bases de datos relacionales como MySQL, SQL Server y PostgreSQL, y lenguajes como Java y Python.<br>
-  Siempre estoy explorando tendencias y tecnologías en informática y busco contribuir significativamente en proyectos colaborativos.
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=Adan0423&label=Profile%20views&color=0e75b6&style=flat-square)
+
+**Estudiante de Análisis de Sistemas | Desarrollador Full Stack** 🚀
+
+Apasionado por la tecnología y el desarrollo de software. Me encanta aprender nuevos lenguajes, herramientas y frameworks, aplicándolos en proyectos prácticos que consolidan mis habilidades.
+
+</div>
 
 ---
 
-## 🏆 Logros y Trofeos
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=adan0423&theme=algolia&margin-w=10&margin-h=10" alt="adan0423" />
-  </a>
-</p>
+## 💼 Sobre mí
+
+- 🎓 Estudiante de **Análisis de Sistemas**
+- 💻 Especializado en **desarrollo web Full Stack**
+- 🔧 Experiencia en **múltiples tecnologías y lenguajes**
+- 🌱 Siempre explorando nuevas tendencias en informática
+- 🤝 Interesado en **proyectos colaborativos** de impacto
 
 ---
 
-## 📫 Contacto
+## 🛠️ Tecnologías y Herramientas
 
-- 📧 **Correo:** [adan.tt3@gmail.com](mailto:adan.tt3@gmail.com)
+<div align="center">
 
----
+![HTML5](https://img.shields.io/badge/-HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
 
-## 🌐 Conéctate conmigo
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-<p align="left">
-  <a href="https://linkedin.com/in/adán-trinidad-57334bb5" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-</p>
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=azure&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
----
-
-## 🛠️ Lenguajes y Herramientas
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,mysql,postgres,java,python,bootstrap,git,linux,vue,angular,azure,heroku,codeigniter,django,firebase,photoshop,illustrator,selenium,sqlite" />
-</p>
-
----
-
-## 📈 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adan0423&show_icons=true&theme=radical" alt="adan0423 stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adan0423&show_icons=true&locale=en&layout=compact&theme=radical" alt="adan0423 top languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adan0423&theme=radical" alt="adan0423 github streak" />
-</p>
+</div>
 
 ---
 
-<p align="center">
-  <b>¡Gracias por visitar mi perfil! 🚀</b>
-</p>
+## 🏆 Logros y Reconocimientos
+
+<div align="center">
+
+[![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=Adan0423&theme=nord&margin-w=15&margin-h=15&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 📊 Estadísticas de GitHub
+
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Adan0423&show_icons=true&theme=nord&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Adan0423&layout=compact&theme=nord)
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Adan0423&theme=nord)
+
+</div>
+
+---
+
+## 📞 Contacto y Conexiones
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-adan.tt3%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adan.tt3@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Adán%20Trinidad-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adan-trinidad)
+[![GitHub](https://img.shields.io/badge/GitHub-Adan0423-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Adan0423)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🎯 "El código es poesía hecha en HTML" 💻
+
+**¡Gracias por visitar mi perfil! No dudes en contactarme si tienes algún proyecto interesante.** 🚀
+
+</div>
