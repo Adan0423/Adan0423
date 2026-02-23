@@ -1,40 +1,42 @@
-# 👋 ¡Hola, soy Adán Trinidad!
+<h1 align="center">👋 Hola, soy Adán Trinidad</h1>
 
-<div align="center">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Adan0423&label=Profile%20Views&color=0e75b6&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/Adan0423?style=flat-square" />
+  <img src="https://img.shields.io/github/stars/Adan0423?affiliations=OWNER%2CCOLLABORATOR&style=flat-square" />
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=Adan0423&label=Profile%20views&color=0e75b6&style=flat-square" />
+<h3 align="center">🚀 Estudiante de Análisis de Sistemas | Desarrollador Full Stack</h3>
 
-### 🚀 Estudiante de Análisis de Sistemas | Desarrollador Full Stack
-
-Apasionado por la tecnología y el desarrollo de software.  
-Me encanta aprender nuevos lenguajes, herramientas y frameworks, aplicándolos en proyectos prácticos que consolidan mis habilidades.
-
-</div>
-
----
-
-# 💼 Sobre mí
-
-- 🎓 Estudiante de **Análisis de Sistemas**
-- 💻 Especializado en **Desarrollo Web Full Stack**
-- 🔧 Experiencia en **múltiples tecnologías y lenguajes**
-- 🌱 Explorando constantemente nuevas tendencias en informática
-- 🤝 Interesado en **proyectos colaborativos de impacto**
-- 📚 Aprendedor constante y desarrollador apasionado
+<p align="center">
+Apasionado por la tecnología y el desarrollo de software.<br>
+Construyo soluciones web modernas, escalables y funcionales.
+</p>
 
 ---
 
-# 🛠️ Tecnologías y Herramientas
+# 🧠 Sobre mí
+
+🎓 Estudiante de **Análisis de Sistemas**  
+💻 Especializado en **Desarrollo Web Full Stack**  
+🔧 Experiencia en múltiples tecnologías  
+🌱 Explorando constantemente nuevas tendencias  
+🤝 Interesado en proyectos colaborativos de impacto  
+📚 Aprendiz continuo y constructor digital  
+
+---
+
+# 🛠 Stack Tecnológico
 
 <div align="center">
 
 ## 🎨 Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,react,vue,angular,bootstrap" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vue,angular,bootstrap,tailwind" />
 
 <br>
 
 ## 🛠 Backend
-<img src="https://skillicons.dev/icons?i=nodejs,python,java,django" />
+<img src="https://skillicons.dev/icons?i=nodejs,python,java,django,express" />
 
 <br>
 
@@ -43,19 +45,17 @@ Me encanta aprender nuevos lenguajes, herramientas y frameworks, aplicándolos e
 
 <br>
 
-## ⚙ Herramientas y Plataformas
-<img src="https://skillicons.dev/icons?i=git,linux,azure,github" />
+## ⚙ DevOps & Herramientas
+<img src="https://skillicons.dev/icons?i=git,github,linux,azure,docker,vscode" />
 
 </div>
 
 ---
 
-# 🏆 Logros y Reconocimientos
+# 🏆 Logros & Trofeos
 
 <div align="center">
-
 <img src="https://github-profile-trophy.vercel.app/?username=Adan0423&theme=onedark&no-frame=true&margin-w=15&margin-h=15" />
-
 </div>
 
 ---
@@ -63,20 +63,18 @@ Me encanta aprender nuevos lenguajes, herramientas y frameworks, aplicándolos e
 # 🎖 GitHub Achievements
 
 <div align="center">
-
 <img src="https://github-achievements.vercel.app/api?username=Adan0423&theme=darkhub" />
-
 </div>
 
 ---
 
-# 📊 Estadísticas de GitHub
+# 📊 Métricas Avanzadas
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Adan0423&show_icons=true&theme=nord&include_all_commits=true&count_private=true&line_height=27" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Adan0423&show_icons=true&theme=nord&include_all_commits=true&count_private=true" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=Adan0423&layout=compact&theme=nord&langs_count=8" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=Adan0423&layout=compact&theme=nord" />
 
 <br>
 
@@ -90,17 +88,33 @@ Me encanta aprender nuevos lenguajes, herramientas y frameworks, aplicándolos e
 
 ---
 
-# 🎯 Mi Camino en GitHub
+# 🚀 Mi Camino en GitHub
 
-- 💡 Creando y compartiendo proyectos innovadores
-- 🔗 Participando y colaborando en proyectos de código abierto
-- 📈 Mejorando constantemente mis habilidades Full Stack
-- 🚀 Construyendo soluciones prácticas y escalables
-- 🏅 En búsqueda de desbloquear más logros y reconocimientos en GitHub
+✔ Creación de proyectos prácticos  
+✔ Participación en Open Source  
+✔ Optimización de código y arquitectura  
+✔ Mejora continua en Full Stack  
+✔ Desbloqueo progresivo de GitHub Achievements  
 
 ---
 
-# 📞 Contacto y Conexiones
+# 📂 Enfoque Profesional
+
+🔹 Desarrollo Web Moderno  
+🔹 Seguridad en Aplicaciones Web  
+🔹 Diseño UX/UI intuitivo  
+🔹 Arquitectura escalable  
+🔹 Buenas prácticas y clean code  
+
+---
+
+# 🎯 Objetivo Profesional
+
+Convertirme en un desarrollador de alto impacto, capaz de diseñar sistemas eficientes, escalables y bien estructurados, aportando valor real a equipos y organizaciones.
+
+---
+
+# 📬 Contacto
 
 <div align="center">
 
@@ -112,26 +126,11 @@ Me encanta aprender nuevos lenguajes, herramientas y frameworks, aplicándolos e
 
 ---
 
-# 📋 Intereses y Objetivos
-
-- 🚀 Desarrollo de aplicaciones web modernas y responsivas
-- 🔐 Seguridad en aplicaciones web
-- 🎨 Diseño UX/UI intuitivo
-- 🤖 Exploración de nuevas tecnologías y frameworks
-- 📱 Desarrollo móvil y responsive design
-- 🏆 Participación activa en comunidades y proyectos Open Source
-
----
-
 <div align="center">
 
-## 🎯 "El código es poesía hecha en HTML" 💻
+## 💬 “El código es poesía hecha en lógica y estructura.”
 
 ✨ Gracias por visitar mi perfil  
-
-Si tienes un proyecto interesante o quieres colaborar,  
-**no dudes en contactarme.**  
-
-Estoy abierto a nuevos desafíos y oportunidades. 🚀
+🚀 Siempre abierto a colaboraciones y nuevos desafíos  
 
 </div>
