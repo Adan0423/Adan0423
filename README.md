@@ -71,59 +71,99 @@ Software útil, mantenible, seguro y preparado para evolucionar.
 </tr>
 </table>
 
-🚀 Proyectos destacados
+## 🚀 Proyectos destacados
 
-<div align="center">
+### 🖥️ [Real-Time Desktop Agent](https://github.com/Adan0423/real-time-desktop-agent)
 
-<a href="https://github.com/Adan0423/real-time-desktop-agent">
-  <img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=Adan0423&repo=real-time-desktop-agent&theme=tokyonight&hide_border=true" alt="Real-Time Desktop Agent"/>
-</a>
-<a href="https://github.com/Adan0423/MemoraX">
-  <img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=Adan0423&repo=MemoraX&theme=tokyonight&hide_border=true" alt="MemoraX"/>
-</a>
+> **Desktop AgentOS / Computer Use Runtime para Windows 11** diseñado para proporcionar visión, percepción y control de escritorio en tiempo real a sistemas y agentes de IA.
 
-<a href="https://github.com/Adan0423/dev-toolkit-skills">
-  <img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=Adan0423&repo=dev-toolkit-skills&theme=tokyonight&hide_border=true" alt="Dev Toolkit Skills"/>
-</a>
+<p>
+  <img src="https://img.shields.io/badge/Python-3.12+-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-API-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebSockets-Real--Time-010101?style=flat-square" />
+  <img src="https://img.shields.io/badge/MCP-Compatible-8B5CF6?style=flat-square" />
+  <img src="https://img.shields.io/badge/PySide6-Qt-41CD52?style=flat-square&logo=qt&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-Vision-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Win32-Native_API-0078D4?style=flat-square&logo=windows11&logoColor=white" />
+</p>
 
-</div>
+**Capacidades principales**
 
-🖥️ Real-Time Desktop Agent
+- ⚡ **Control nativo:** mouse, teclado y hotkeys mediante Win32.
+- 👁️ **Percepción en tiempo real:** captura continua y análisis del escritorio.
+- 🧠 **DesktopSession persistente:** mantiene activa la sesión entre la IA y Windows.
+- 🔲 **ROI Processing:** procesa únicamente regiones visuales modificadas.
+- 🔔 **Eventos nativos:** seguimiento de cambios de ventana y foco mediante WinEvents.
+- 🔌 **Integración con IA:** MCP, REST API y comunicación WebSocket.
+- 🧪 **Quality Engineering:** pruebas automatizadas y benchmarks de rendimiento.
 
-Desktop AgentOS / Computer Use runtime para Windows 11, orientado a proporcionar visión, percepción y control de escritorio en tiempo real a sistemas de IA.
+<p>
+  <a href="https://github.com/Adan0423/real-time-desktop-agent">
+    <img src="https://img.shields.io/badge/→_Ver_repositorio-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-Python FastAPI WebSockets MCP PySide6 OpenCV Win32 UI Automation Shared Memory
+---
 
-⚡ Control nativo de mouse y teclado con Win32.
-👁️ Captura y percepción del escritorio en tiempo real.
-🧠 Sesiones persistentes para agentes de IA.
-🔲 Procesamiento ROI para eliminar trabajo innecesario.
-🔌 Gateway REST, WebSocket y Model Context Protocol.
-🧪 Testing y benchmark automatizados.
-⚡ MemoraX
+### ⚡ [MemoraX](https://github.com/Adan0423/MemoraX)
 
-Utilidad moderna para Windows 11 para visualizar y gestionar Standby Memory y monitorizar hardware en tiempo real.
+> Aplicación nativa para **Windows 11** orientada a visualizar y administrar Standby Memory, junto con monitorización de memoria y hardware en tiempo real.
 
-C# 13 .NET 9 WinUI 3 MVVM Win32 / NT API PDH LibreHardwareMonitor
+<p>
+  <img src="https://img.shields.io/badge/C%23-13-512BD4?style=flat-square&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-9-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/WinUI-3-0078D4?style=flat-square&logo=windows11&logoColor=white" />
+  <img src="https://img.shields.io/badge/Architecture-MVVM-8B5CF6?style=flat-square" />
+  <img src="https://img.shields.io/badge/Win32-P%2FInvoke-0078D4?style=flat-square&logo=windows11&logoColor=white" />
+  <img src="https://img.shields.io/badge/PDH-Performance_Counters-238636?style=flat-square" />
+</p>
 
-🧹 Gestión manual de Standby Memory.
+**Capacidades principales**
 
-🌡️ Temperaturas y métricas de CPU/GPU.
+- 🧹 **Standby Memory:** visualización y limpieza manual controlada.
+- 💾 **RAM Monitor:** memoria total, utilizada, disponible y Standby.
+- 🌡️ **Hardware Monitoring:** temperatura y métricas de CPU/GPU.
+- 🪟 **Floating Widget:** panel compacto Always-On-Top.
+- 📊 **Dashboard:** interfaz moderna basada en Fluent Design y Mica.
+- 🔧 **Windows Native APIs:** integración mediante Win32, NT API y P/Invoke.
+- 🧩 **Arquitectura MVVM:** separación clara entre UI, estado y servicios.
 
-🪟 Widget flotante Always-On-Top.
+<p>
+  <a href="https://github.com/Adan0423/MemoraX">
+    <img src="https://img.shields.io/badge/→_Ver_repositorio-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-📊 Dashboard con Fluent Design / Mica.
+---
 
-🔧 Integración P/Invoke con APIs nativas de Windows.
+### 🧰 [dev-toolkit-skills](https://github.com/Adan0423/dev-toolkit-skills)
 
-🧰 dev-toolkit-skills
+> Colección modular de **skills, prompts y workflows reutilizables para agentes de IA**, diseñada para asistir diferentes etapas del ciclo de desarrollo de software.
 
-Biblioteca reutilizable de skills, prompts y workflows para agentes de IA aplicados al ciclo de desarrollo de software.
+<p>
+  <img src="https://img.shields.io/badge/AI-Agents-8B5CF6?style=flat-square" />
+  <img src="https://img.shields.io/badge/Prompt-Engineering-FF6B6B?style=flat-square" />
+  <img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind-CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-Backend-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-Database-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+</p>
 
-AI Agents Prompts React Tailwind CSS Supabase PostgreSQL UX/UI Automation
+**Áreas cubiertas**
 
-Incluye habilidades especializadas para arquitectura, seguridad, bases de datos, UI/UX, documentación, auditoría, automatización y desarrollo asistido por agentes.
+- 🎨 **UI/UX Engineering:** diseño moderno, responsive y sistemas visuales.
+- ⚛️ **Frontend:** React, Tailwind CSS, Vite y patrones de arquitectura.
+- 🗄️ **Backend & Data:** Supabase, PostgreSQL, autenticación y optimización.
+- 🔐 **Security:** auditoría, permisos, RBAC, RLS y revisión de vulnerabilidades.
+- 🤖 **Automation:** agentes, workflows y automatización del desarrollo.
+- 📚 **Documentation:** README, documentación técnica y mantenimiento de proyectos.
+- 🧠 **Meta Skills:** creación, mejora y organización de skills para agentes.
 
+<p>
+  <a href="https://github.com/Adan0423/dev-toolkit-skills">
+    <img src="https://img.shields.io/badge/→_Explorar_skills-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 🧩 Tech Stack
 
 <div align="center">
