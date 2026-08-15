@@ -73,68 +73,6 @@ Software útil, mantenible, seguro y preparado para evolucionar.
 
 ## 🚀 Proyectos destacados
 
-### 🖥️ [Real-Time Desktop Agent](https://github.com/Adan0423/real-time-desktop-agent)
-
-> **Desktop AgentOS / Computer Use Runtime para Windows 11** diseñado para proporcionar visión, percepción y control de escritorio en tiempo real a sistemas y agentes de IA.
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3.12+-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-API-009688?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/WebSockets-Real--Time-010101?style=flat-square" />
-  <img src="https://img.shields.io/badge/MCP-Compatible-8B5CF6?style=flat-square" />
-  <img src="https://img.shields.io/badge/PySide6-Qt-41CD52?style=flat-square&logo=qt&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-Vision-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/Win32-Native_API-0078D4?style=flat-square&logo=windows11&logoColor=white" />
-</p>
-
-**Capacidades principales**
-
-- ⚡ **Control nativo:** mouse, teclado y hotkeys mediante Win32.
-- 👁️ **Percepción en tiempo real:** captura continua y análisis del escritorio.
-- 🧠 **DesktopSession persistente:** mantiene activa la sesión entre la IA y Windows.
-- 🔲 **ROI Processing:** procesa únicamente regiones visuales modificadas.
-- 🔔 **Eventos nativos:** seguimiento de cambios de ventana y foco mediante WinEvents.
-- 🔌 **Integración con IA:** MCP, REST API y comunicación WebSocket.
-- 🧪 **Quality Engineering:** pruebas automatizadas y benchmarks de rendimiento.
-
-<p>
-  <a href="https://github.com/Adan0423/real-time-desktop-agent">
-    <img src="https://img.shields.io/badge/→_Ver_repositorio-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
-
-### ⚡ [MemoraX](https://github.com/Adan0423/MemoraX)
-
-> Aplicación nativa para **Windows 11** orientada a visualizar y administrar Standby Memory, junto con monitorización de memoria y hardware en tiempo real.
-
-<p>
-  <img src="https://img.shields.io/badge/C%23-13-512BD4?style=flat-square&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-9-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/WinUI-3-0078D4?style=flat-square&logo=windows11&logoColor=white" />
-  <img src="https://img.shields.io/badge/Architecture-MVVM-8B5CF6?style=flat-square" />
-  <img src="https://img.shields.io/badge/Win32-P%2FInvoke-0078D4?style=flat-square&logo=windows11&logoColor=white" />
-  <img src="https://img.shields.io/badge/PDH-Performance_Counters-238636?style=flat-square" />
-</p>
-
-**Capacidades principales**
-
-- 🧹 **Standby Memory:** visualización y limpieza manual controlada.
-- 💾 **RAM Monitor:** memoria total, utilizada, disponible y Standby.
-- 🌡️ **Hardware Monitoring:** temperatura y métricas de CPU/GPU.
-- 🪟 **Floating Widget:** panel compacto Always-On-Top.
-- 📊 **Dashboard:** interfaz moderna basada en Fluent Design y Mica.
-- 🔧 **Windows Native APIs:** integración mediante Win32, NT API y P/Invoke.
-- 🧩 **Arquitectura MVVM:** separación clara entre UI, estado y servicios.
-
-<p>
-  <a href="https://github.com/Adan0423/MemoraX">
-    <img src="https://img.shields.io/badge/→_Ver_repositorio-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
 
 ### 🧰 [dev-toolkit-skills](https://github.com/Adan0423/dev-toolkit-skills)
 
