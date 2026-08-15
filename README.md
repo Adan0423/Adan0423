@@ -43,17 +43,11 @@ Trabajo desde el modelo de datos y la lógica de negocio hasta la interfaz, segu
 Me interesan especialmente los sistemas donde se cruzan:
 
 🌐 Desarrollo web Full Stack
-
 🤖 IA, agentes, MCP y automatización
-
 🗄️ PostgreSQL, Supabase, SQL y arquitectura de datos
-
 🔐 Seguridad, RBAC, RLS y control de acceso
-
 🪟 Windows, C#, .NET, WinUI 3 y Win32
-
 📱 Android y desarrollo móvil
-
 ⚡ Rendimiento, testing y arquitectura escalable
 
 </td>
@@ -101,17 +95,11 @@ Desktop AgentOS / Computer Use runtime para Windows 11, orientado a proporcionar
 Python FastAPI WebSockets MCP PySide6 OpenCV Win32 UI Automation Shared Memory
 
 ⚡ Control nativo de mouse y teclado con Win32.
-
 👁️ Captura y percepción del escritorio en tiempo real.
-
 🧠 Sesiones persistentes para agentes de IA.
-
 🔲 Procesamiento ROI para eliminar trabajo innecesario.
-
 🔌 Gateway REST, WebSocket y Model Context Protocol.
-
 🧪 Testing y benchmark automatizados.
-
 ⚡ MemoraX
 
 Utilidad moderna para Windows 11 para visualizar y gestionar Standby Memory y monitorizar hardware en tiempo real.
