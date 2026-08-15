@@ -1,236 +1,286 @@
-<h1 align="center">👋 Adán Trinidad | Full Stack Developer</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Adan0423&label=Visitas%20al%20Perfil&color=0e75b6&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/Adan0423?style=flat-square&label=Seguidores" />
-  <img src="https://img.shields.io/github/stars/Adan0423?affiliations=OWNER%2CCOLLABORATOR&style=flat-square&label=Estrellas" />
+👋 Adán Trinidad
+
+Full Stack Developer · Systems Analyst · AI & Automation
+
+Construyo aplicaciones web, software de escritorio y herramientas potenciadas por IA, con foco en arquitectura mantenible, rendimiento, seguridad y automatización.
+
+
+
+
+
+
+<br>
+
+
+
+
+
+
+</div>
+
+👨‍💻 Sobre mí
+
+Soy Técnico egresado en Análisis de Sistemas y desarrollador Full Stack orientado a construir soluciones de software completas: desde el modelado de datos y la lógica de negocio hasta la interfaz, integración, pruebas y despliegue.
+
+Desde 2022 he trabajado en proyectos web y herramientas propias, reforzando especialmente estas áreas:
+
+🌐 Desarrollo Full Stack de aplicaciones web modernas y responsivas.
+
+🧠 Integración de IA, agentes, MCP, automatización y workflows.
+
+🗄️ Diseño y optimización de bases de datos SQL/NoSQL, PostgreSQL y Supabase.
+
+🔐 Autenticación, autorización, RBAC, seguridad y validación de permisos.
+
+🪟 Desarrollo de software para Windows con C#, .NET, WinUI 3 y Win32/PInvoke.
+
+⚡ Optimización de rendimiento, arquitectura modular, testing y documentación técnica.
+
+📱 Desarrollo móvil y experimentación con aplicaciones Android.
+
+Me interesa crear software que no solo funcione, sino que sea mantenible, medible, seguro y fácil de evolucionar.
+
+🚀 Proyectos destacados
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+🖥️ Real-Time Desktop Agent
+
+Desktop AgentOS / Computer Use runtime para Windows 11 orientado a interacción de IA en tiempo real.
+
+Tecnologías: Python, FastAPI, WebSockets, MCP, PySide6, OpenCV, Win32, UI Automation, Shared Memory.
+
+Aspectos técnicos:
+
+Sesiones persistentes de escritorio.
+
+Captura y percepción en tiempo real.
+
+Control nativo de mouse y teclado con Win32.
+
+Procesamiento ROI para evitar trabajo innecesario.
+
+Event streaming y gateway REST/WebSocket.
+
+Suite automatizada de pruebas y benchmark.
+
+</td>
+<td width="50%" valign="top">
+
+⚡ MemoraX
+
+Aplicación nativa para Windows 11 para visualizar y gestionar Standby Memory y monitorizar hardware.
+
+Tecnologías: C# 13, .NET 9, WinUI 3, MVVM, Win32/NT API, PDH, LibreHardwareMonitor.
+
+Aspectos técnicos:
+
+Widget flotante Always-On-Top.
+
+Métricas de RAM y Standby Memory.
+
+Monitoreo de CPU/GPU y sensores.
+
+Arquitectura MVVM.
+
+Integración P/Invoke con APIs de Windows.
+
+Dashboard moderno con Fluent/Mica.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+🧰 dev-toolkit-skills
+
+Repositorio de skills, prompts y patrones reutilizables para agentes de IA aplicados al desarrollo de software.
+
+Áreas: UI/UX, React, Tailwind CSS, Supabase, PostgreSQL, automatización, auditoría, documentación, CV/ATS y plataformas web.
+
+Objetivo: convertir conocimiento técnico repetible en workflows reutilizables para agentes de desarrollo.
+
+</td>
+<td width="50%" valign="top">
+
+🔧 Sistemas Full Stack & Automatización
+
+Además de mis repositorios públicos, he trabajado en proyectos orientados a:
+
+Paneles administrativos.
+
+Gestión de usuarios, roles y permisos.
+
+Aplicaciones con PostgreSQL/Supabase.
+
+Sistemas web con APIs REST.
+
+Aplicaciones móviles.
+
+Automatización de procesos.
+
+Refactorización y documentación de sistemas existentes.
+
+</td>
+</tr>
+</table>
+
+🧩 Stack tecnológico
+
+Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,svelte,tailwind,bootstrap,vite" alt="Frontend technologies" />
 </p>
 
-<h3 align="center">🚀 Desarrollador Full Stack Profesional | Ingeniero de Software</h3>
+HTML5 · CSS3 · JavaScript · TypeScript · React · Next.js · Svelte · Tailwind CSS · Bootstrap · Vite
 
-<p align="center">
-Experto en diseño e implementación de soluciones web escalables y de alto desempeño.<br>
-Especializado en arquitectura de sistemas, optimización de código y mejores prácticas de desarrollo.
+Backend & APIs
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,python,fastapi,php,dotnet,cs" alt="Backend technologies" />
 </p>
 
----
+Node.js · Python · FastAPI · PHP · C# · .NET · REST APIs · WebSockets · MCP
 
-## 📋 Tabla de Contenidos
-- [Sobre Mí](#-sobre-mí)
-- [Competencias Técnicas](#-competencias-técnicas)
-- [Experiencia Profesional](#-experiencia-profesional)
-- [Proyectos Destacados](#-proyectos-destacados)
-- [Metas y Roadmap](#-metas-y-roadmap)
-- [Disponibilidad Laboral](#-disponibilidad-laboral)
-- [Estadísticas](#-estadísticas)
-- [Contacto](#-contacto)
+Bases de datos
 
----
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,supabase,mysql,mongodb" alt="Database technologies" />
+</p>
 
-## 👨‍💼 Sobre Mí
+PostgreSQL · Supabase · MySQL · SQL Server · MongoDB · SQL · RBAC · RLS
 
-Soy un desarrollador full stack apasionado por crear soluciones tecnológicas innovadoras y eficientes. Con una sólida formación en **Análisis de Sistemas** y experiencia práctica en proyectos reales, me especializo en:
+Desktop, Mobile & Systems
 
-- ✅ Desarrollo de aplicaciones web modernas y responsivas
-- ✅ Arquitectura de sistemas escalables y mantenibles
-- ✅ Implementación de buenas prácticas y clean code
-- ✅ Optimización de rendimiento y seguridad
-- ✅ Colaboración efectiva en equipos multidisciplinarios
+<p>
+  <img src="https://skillicons.dev/icons?i=windows,visualstudio,androidstudio,kotlin" alt="Desktop and mobile technologies" />
+</p>
 
-Tengo un compromiso constante con el aprendizaje continuo y la excelencia técnica, buscando siempre elevar la calidad de mis proyectos y aportar valor significativo a los equipos con los que trabajo.
+WinUI 3 · MVVM · Win32/PInvoke · Windows APIs · Android · Kotlin
 
----
+Tooling & DevOps
 
-## 🛠 Competencias Técnicas
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman" alt="Development tools" />
+</p>
 
-### 🎨 Frontend Development
-<img src="https://skillicons.dev/icons?i=html,css,js,react,vue,angular,bootstrap,tailwind,webpack" />
+Git · GitHub · Docker · Linux · VS Code · Visual Studio · Postman · CI/CD
 
-**Especialidades:** Interfaces responsivas, componentes reutilizables, estado global, performance optimization
+🏗️ En qué me enfoco al desarrollar
 
-### ⚙ Backend Development
-<img src="https://skillicons.dev/icons?i=nodejs,python,java,django,express,fastapi" />
+Requirements
+    ↓
+Architecture
+    ↓
+Data Model ──► Security / RBAC
+    ↓
+Backend / APIs
+    ↓
+Frontend / UX
+    ↓
+Testing
+    ↓
+Performance
+    ↓
+Documentation & Deployment
 
-**Especialidades:** APIs REST, microservicios, autenticación y autorización, lógica de negocio
+Mis prioridades técnicas suelen ser:
 
-### 🗄 Bases de Datos
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,redis" />
+Arquitectura: módulos con responsabilidades claras y bajo acoplamiento.
 
-**Especialidades:** Diseño de esquemas, consultas optimizadas, migraciones, integridad de datos
+Datos: esquemas normalizados, relaciones justificadas y consultas eficientes.
 
-### 🔧 Herramientas & DevOps
-<img src="https://skillicons.dev/icons?i=git,github,linux,docker,azure,vscode,npm,postman" />
+Seguridad: mínimo privilegio, validación de permisos y separación por roles.
 
-**Especialidades:** Control de versiones, CI/CD, containerización, cloud deployment
+Rendimiento: medir antes de optimizar y eliminar trabajo innecesario.
 
----
+UX: interfaces responsive, accesibles y coherentes en distintos dispositivos.
 
-## 💼 Experiencia Profesional
+Calidad: pruebas, documentación y mantenimiento como parte del desarrollo.
 
-### 📌 Desarrollo de Proyectos Prácticos
-- Diseño e implementación de soluciones web completas
-- Optimización de flujos de trabajo y eficiencia del código
-- Implementación de patrones de arquitectura (MVC, MVVM)
-- Participación en iniciativas de open source
+📌 Resultados y experiencia práctica
 
-### 📌 Mejora Continua
-- Refactorización de código heredado
-- Implementación de testing automatizado
-- Documentación técnica comprensiva
-- Mentoría y code review colaborativo
+Desarrollo Full Stack freelance y proyectos propios desde 2022.
 
----
+Experiencia construyendo aplicaciones desde modelo de datos hasta despliegue.
 
-## 🎯 Proyectos Destacados
+Refactorización de una arquitectura PostgreSQL/Supabase de 54 a 49 tablas, reduciendo aproximadamente un 9% de estructura innecesaria.
 
-Explora mis repositorios para ver proyectos que demuestran:
-- **Soluciones Full Stack** completas y funcionales
-- **Código limpio** y bien estructurado
-- **Documentación profesional** detallada
-- **Mejores prácticas** de desarrollo
+Fortalecimiento del control de acceso mediante funciones SQL y RBAC.
 
-> 📌 Todos mis proyectos están disponibles en mi [perfil de GitHub](https://github.com/Adan0423?tab=repositories)
+Experiencia con mantenimiento de estaciones Windows/Linux, automatización y soporte técnico.
 
----
+Formación continua mediante cursos y certificaciones en desarrollo, Python, React, Scrum y ciberseguridad.
 
-## 🏆 Logros y Reconocimientos
+🧠 Actualmente explorando
+
+Agentic AI y sistemas Computer Use.
+
+Model Context Protocol (MCP).
+
+Arquitecturas event-driven y comunicación en tiempo real.
+
+Optimización avanzada de PostgreSQL y Supabase.
+
+Seguridad de aplicaciones y principios OWASP.
+
+Automatización de pruebas, CI/CD y observabilidad.
+
+IA aplicada a aplicaciones web, móviles y de escritorio.
+
+📊 GitHub
 
 <div align="center">
 
-### Trofeos GitHub
-<img src="https://github-profile-trophy.vercel.app/?username=Adan0423&theme=onedark&no-frame=true&margin-w=15&margin-h=15" />
+<img height="180" src="https://github-stats-extended.vercel.app/api?username=Adan0423&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub stats" />
 
-### Logros Desbloqueados
-<img src="https://github-achievements.vercel.app/api?username=Adan0423&theme=darkhub" />
+<img height="180" src="https://github-stats-extended.vercel.app/api/top-langs?username=Adan0423&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top languages" />
+
+<br><br>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Adan0423&theme=github-compact&hide_border=true&area=true" alt="GitHub activity graph" />
 
 </div>
 
----
+Las tarjetas de lenguajes reflejan el código público disponible en GitHub; no representan por sí solas el nivel de dominio de una tecnología.
 
-## 📊 Estadísticas y Progreso
+🎯 Objetivos profesionales
 
-<div align="center">
+Mi objetivo es seguir creciendo como desarrollador de software mediante proyectos reales, colaboración técnica y mejora continua.
 
-### Actividad General
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Adan0423&show_icons=true&theme=nord&include_all_commits=true&count_private=true&hide_title=false" />
+Actualmente estoy abierto a:
 
-### Lenguajes Más Utilizados
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=Adan0423&layout=compact&theme=nord&hide_title=false" />
+💼 Oportunidades como Full Stack Developer / Software Developer.
 
-### Racha de Contribuciones
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Adan0423&theme=nord&hide_border=true" />
+🎓 Prácticas profesionales relacionadas con desarrollo y sistemas.
 
-### Gráfico de Actividad
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Adan0423&theme=nord&hide_title=true" />
+🤝 Proyectos colaborativos y Open Source.
 
-</div>
+🧠 Proyectos relacionados con IA, automatización, backend y arquitectura de sistemas.
 
----
+🌎 Trabajo presencial, híbrido o remoto.
 
-## 🎯 Metas y Roadmap Profesional
-
-### 2026 - Objetivos Inmediatos
-- ✅ Consolidar expertise en Full Stack Development
-- ✅ Especializarme en arquitectura de microservicios
-- ✅ Completar certificaciones técnicas relevantes
-- ✅ Contribuir activamente a proyectos open source
-
-### Largo Plazo (2026-2027)
-- 🚀 Posicionarme como Senior Developer
-- 🚀 Especializarme en cloud architecture (AWS/Azure)
-- 🚀 Liderazgo técnico en equipos multidisciplinarios
-- 🚀 Contribuciones significativas a la comunidad tech
-
-### Áreas de Crecimiento
-- 🔹 DevOps y CI/CD avanzado
-- 🔹 Kubernetes y orquestación de contenedores
-- 🔹 Machine Learning aplicado
-- 🔹 Seguridad en aplicaciones web (OWASP)
-
----
-
-## 💼 Disponibilidad Laboral
-
-### 🟢 Abierto a Oportunidades
-
-**Modalidades de Trabajo:**
-- 🏢 Presencial
-- 🏠 Remoto
-- 🔄 Híbrido
-
-**Tipos de Proyectos:**
-- Startups innovadoras con visión de crecimiento
-- Empresas establecidas con desafíos técnicos complejos
-- Proyectos de impacto social y ambiental
-- Equipos multidisciplinarios colaborativos
-
-**Posiciones de Interés:**
-- Full Stack Developer
-- Backend Engineer
-- Frontend Engineer
-- Software Architect (sénior)
-- Technical Lead
-
----
-
-## 🌟 Fortalezas Clave
-
-| Competencia | Nivel |
-|-----------|-------|
-| JavaScript/TypeScript | ⭐⭐⭐⭐⭐ |
-| React & Vue.js | ⭐⭐⭐⭐⭐ |
-| Node.js & Express | ⭐⭐⭐⭐⭐ |
-| Python & Django | ⭐⭐⭐⭐ |
-| Bases de Datos SQL/NoSQL | ⭐⭐⭐⭐⭐ |
-| Docker & DevOps | ⭐⭐⭐⭐ |
-| REST APIs & GraphQL | ⭐⭐⭐⭐⭐ |
-| Metodologías Ágiles | ⭐⭐⭐⭐⭐ |
-
----
-
-## 📬 Contacto y Enlaces
+📫 Contacto
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-adan.tt3%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adan.tt3@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Adán%20Trinidad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adan-trinidad)
-[![GitHub](https://img.shields.io/badge/GitHub-Adan0423-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Adan0423)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Mi%20Sitio-00D9FF?style=for-the-badge&logo=internet-explorer&logoColor=white)](#)
+¿Tienes un proyecto, una oportunidad o quieres colaborar?
 
-</div>
+<br>
 
----
 
-## 📞 ¿Interesado en Colaborar?
 
-Si buscas un desarrollador comprometido, con mentalidad de crecimiento y pasión por la excelencia técnica, **estoy disponible para conversar sobre nuevas oportunidades**.
 
-<div align="center">
 
-### Disponible para:
-💼 Oportunidades laborales  
-🤝 Proyectos colaborativos  
-📚 Mentorías técnicas  
-🔗 Networking profesional  
 
-</div>
+<br>
 
----
-
-<div align="center">
-
-### 💡 "El código excelente no es accidente, es disciplina"
-
-✨ Gracias por visitar mi perfil  
-🚀 Siempre en búsqueda de nuevos desafíos y aprendizajes  
-📈 Crecimiento continuo en calidad, innovación e impacto
-
-</div>
-
----
-
-<div align="center">
-
-<sub>Actualizado: Abril 2026 | Desarrollador Full Stack Profesional</sub>
+<sub>Última actualización: agosto de 2026</sub>
 
 </div>
