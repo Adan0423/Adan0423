@@ -141,45 +141,21 @@ Software útil, mantenible, seguro y preparado para evolucionar.
 
 <br>
 
-Área
+| | Área | Tecnologías / conceptos |
+|:---:|---|---|
+| 🌐 | **Frontend** | `HTML5` · `CSS3` · `JavaScript` · `TypeScript` · `React` · `Next.js` · `Svelte` · `Tailwind CSS` · `Bootstrap` |
+| ⚙️ | **Backend & APIs** | `Node.js` · `Python` · `FastAPI` · `PHP` · `C#` · `.NET` · `REST APIs` · `WebSockets` |
+| 🤖 | **AI & Agents** | `MCP` · `Computer Use` · `Agentic Workflows` · `Tool Calling` · `AI Automation` |
+| 🗄️ | **Data & Storage** | `PostgreSQL` · `Supabase` · `MySQL` · `SQL Server` · `MongoDB` · `Redis` |
+| 🔐 | **Security** | `RBAC` · `RLS` · `Authentication` · `Authorization` · `Least Privilege` |
+| 🪟 | **Windows Development** | `WinUI 3` · `MVVM` · `Win32` · `P/Invoke` · `PDH` · `Windows APIs` |
+| 📱 | **Mobile** | `Android` · `Kotlin` · `Jetpack Compose` |
+| 🧪 | **Quality Engineering** | `Testing` · `Benchmarking` · `Refactoring` · `Technical Documentation` |
+| 🚀 | **DevOps & Tooling** | `Git` · `GitHub` · `Docker` · `Linux` · `CI/CD` · `PowerShell` |
 
-Tecnologías / conceptos
+<br>
 
-🌐 Frontend
-
-HTML5, CSS3, JavaScript, TypeScript, React, Next.js, Svelte, Tailwind CSS, Bootstrap
-
-⚙️ Backend
-
-Node.js, Python, FastAPI, PHP, C#, .NET, REST APIs, WebSockets
-
-🤖 AI & Agents
-
-MCP, Computer Use, Agentic workflows, tool calling, automation
-
-🗄️ Datos
-
-PostgreSQL, Supabase, MySQL, SQL Server, MongoDB, Redis
-
-🔐 Security
-
-RBAC, RLS, autenticación, autorización, principio de mínimo privilegio
-
-🪟 Windows
-
-WinUI 3, MVVM, Win32, P/Invoke, PDH, Windows APIs
-
-📱 Mobile
-
-Android, Kotlin
-
-🧪 Quality
-
-Testing, benchmarking, documentación, refactoring
-
-🚀 DevOps
-
-Git, GitHub, Docker, Linux, CI/CD
+> 💡 **Enfoque:** combinar desarrollo Full Stack, arquitectura, automatización e IA para construir software mantenible, seguro y escalable.
 
 </details>
 
