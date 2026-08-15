@@ -230,36 +230,39 @@ Git, GitHub, Docker, Linux, CI/CD
 
 </div>
 
-🏗️ Cómo pienso un sistema
+## 🏗️ Cómo pienso un sistema
 
-flowchart LR
-    A[💡 Problema] --> B[📋 Requisitos]
-    B --> C[🏗️ Arquitectura]
-    C --> D[(🗄️ Data Model)]
-    D --> E[⚙️ Backend / APIs]
-    E --> F[🎨 Frontend / UX]
-    C --> G[🔐 Security]
+```mermaid
+flowchart TB
+    A["💡 Problema"] --> B["📋 Requisitos"]
+    B --> C["🏗️ Arquitectura"]
+
+    C --> D["🗄️ Modelo de Datos"]
+    C --> G["🔐 Seguridad"]
+
+    D --> E["⚙️ Backend / APIs"]
     D --> G
-    E --> H[🧪 Testing]
+
+    E --> F["🎨 Frontend / UX"]
+    E --> H["🧪 Testing"]
+
     F --> H
     G --> H
-    H --> I[⚡ Performance]
-    I --> J[🚀 Deploy]
-    J --> K[📚 Documentation]
 
-Principios que priorizo
+    H --> I["⚡ Rendimiento"]
+    I --> J["🚀 Deploy"]
+    J --> K["📚 Documentación"]
+```
 
-🏗️ Arquitectura: módulos claros, responsabilidades bien definidas y bajo acoplamiento.
+### Principios que priorizo
 
-🗄️ Datos: relaciones justificadas, integridad y consultas eficientes.
+- 🏗️ **Arquitectura:** módulos claros, responsabilidades bien definidas y bajo acoplamiento.
+- 🗄️ **Datos:** relaciones justificadas, integridad y consultas eficientes.
+- 🔐 **Seguridad:** mínimo privilegio, validación del lado servidor y permisos por rol.
+- ⚡ **Rendimiento:** medir primero, optimizar después y evitar trabajo innecesario.
+- 📱 **Responsive UX:** interfaces adaptables a móvil, tablet y escritorio.
+- 🧪 **Calidad:** pruebas, documentación y mantenibilidad desde el inicio.
 
-🔐 Seguridad: mínimo privilegio, validación del lado servidor y permisos por rol.
-
-⚡ Performance: medir primero, optimizar después y evitar trabajo innecesario.
-
-📱 Responsive UX: interfaces adaptables a móvil, tablet y escritorio.
-
-🧪 Calidad: pruebas, documentación y mantenibilidad desde el inicio.
 
 📌 Experiencia práctica
 
